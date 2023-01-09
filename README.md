@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
+
+
 ![FARUK OZDEMIR (1)](https://user-images.githubusercontent.com/49395473/198708353-a70cf16a-5d7c-4401-afe8-9587c81f68c3.png)
 
 
