@@ -1,10 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=180A0A&width=435&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg) 
-<!--
-**fozdemir16/fozdemir16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
       
 
 - 🔭 I’m currently working on ...
